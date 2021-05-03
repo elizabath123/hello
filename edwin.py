@@ -1,2 +1,2 @@
-i love appus..
-i love you ednutty
+print ("i love appus..")
+
